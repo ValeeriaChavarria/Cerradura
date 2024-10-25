@@ -1,7 +1,6 @@
-##CERRADURA 
 
 
-###DESCRIPCION
+##DESCRIPCION
 -Diseñe un programa de control lógico, para habilitar-deshabilitar el seguro del 
 picaporte y,o pasador de dos cerraduras electromecánicas.
 
